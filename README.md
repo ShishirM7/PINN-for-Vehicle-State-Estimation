@@ -26,6 +26,7 @@ PINN-for-Vehicle-State-Estimation/
 ├── utils/              # Data pre-processing and vehicle dynamics utilities
 ├── train.py            # Model training script
 └── evaluate.py         # Evaluation and visualization scripts
+```
 Installation
 Clone the repository:
 
