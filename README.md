@@ -29,21 +29,20 @@ PINN-for-Vehicle-State-Estimation/
 ```
 ## Installation
 Clone the repository:
-
 Bash
 git clone [https://github.com/ShishirM7/PINN-for-Vehicle-State-Estimation.git](https://github.com/ShishirM7/PINN-for-Vehicle-State-Estimation.git)
 cd PINN-for-Vehicle-State-Estimation
-Install the required dependencies:
 
+Install the required dependencies:
 Bash
 pip install -r requirements.txt
+
 ## Usage
 Train the Physics-Informed Neural Network model:
-
 Bash
 python train.py
-Evaluate the trained model and view state trajectory comparisons:
 
+Evaluate the trained model and view state trajectory comparisons:
 Bash
 python evaluate.py
 
