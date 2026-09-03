@@ -26,10 +26,8 @@ PINN-for-Vehicle-State-Estimation/
 
 ## Results
 * Achieved accurate continuous estimation of vehicle sideslip angle and yaw rate.
-
 * Demonstrated lower error metrics compared to purely data-driven baselines in sparse data regimes.
 
 ## Future Improvements
 * Integration of non-linear tire dynamic models (e.g., Pacejka Magic Formula).
-
 * Real-time online state estimation on edge compute platforms.
