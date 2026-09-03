@@ -33,7 +33,7 @@ Clone the repository:
 Bash
 git clone [https://github.com/ShishirM7/PINN-for-Vehicle-State-Estimation.git](https://github.com/ShishirM7/PINN-for-Vehicle-State-Estimation.git)
 cd PINN-for-Vehicle-State-Estimation
-## Install the required dependencies:
+Install the required dependencies:
 
 Bash
 pip install -r requirements.txt
