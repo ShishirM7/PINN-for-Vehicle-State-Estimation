@@ -1,6 +1,3 @@
-Project Analysis: PINN-for-Vehicle-State-Estimation
-The repository implements Physics-Informed Neural Networks (PINNs) to estimate dynamic vehicle states, such as sideslip angle, lateral velocity, and yaw rate. The primary technical focus is embedding vehicle dynamics equations (such as bicycle dynamic models) directly into the neural network loss function, enabling accurate state estimation even with noisy or sparse sensor data.
-
 Markdown
 # PINN for Vehicle State Estimation
 
