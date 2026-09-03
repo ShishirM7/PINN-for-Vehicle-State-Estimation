@@ -27,24 +27,6 @@ PINN-for-Vehicle-State-Estimation/
 ├── train.py            # Model training script
 └── evaluate.py         # Evaluation and visualization scripts
 ```
-## Installation
-Clone the repository:
-Bash
-git clone [https://github.com/ShishirM7/PINN-for-Vehicle-State-Estimation.git](https://github.com/ShishirM7/PINN-for-Vehicle-State-Estimation.git)
-cd PINN-for-Vehicle-State-Estimation
-
-Install the required dependencies:
-Bash
-pip install -r requirements.txt
-
-## Usage
-Train the Physics-Informed Neural Network model:
-Bash
-python train.py
-
-Evaluate the trained model and view state trajectory comparisons:
-Bash
-python evaluate.py
 
 ## Results
 * Achieved accurate continuous estimation of vehicle sideslip angle and yaw rate.
