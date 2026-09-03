@@ -1,4 +1,3 @@
-Markdown
 # PINN for Vehicle State Estimation
 
 ## Overview
